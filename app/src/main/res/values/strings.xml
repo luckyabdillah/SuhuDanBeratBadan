@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Suhu &amp; Berat Badan</string>
+    <string-array name="jenis_suhu">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
+    <string-array name="sekolah">
+        <item>SMPN 1 Batusangkar</item>
+        <item>SMPN 2 Batusangkar</item>
+        <item>SMPN 5 Bukit Gombak</item>
+        <item>SMAN 1 Sungai Tarab</item>
+        <item>SMKN 3 Padang Panjang</item>
+    </string-array>
+</resources>
